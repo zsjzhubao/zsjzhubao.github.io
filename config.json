@@ -7,4 +7,16 @@
     "faviconUrl":"https://meekdai.com/favicon.svg",
     "singlePage":[],
     "GMEEK_VERSION":"last"
+    "email":"meekdai@163.com",
+"startSite":"02/16/2011",
+"filingNum":"苏ICP备20013564号",
+"onePageListNum":15,
+"commentLabelColor":"#006b75",
+"yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+"i18n":"CN",
+"dayTheme":"light",
+"nightTheme":"dark_colorblind",
+"urlMode":"pinyin",
+"style":"",
+"script":"",
 }
